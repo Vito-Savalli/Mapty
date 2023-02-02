@@ -1,6 +1,6 @@
 # Mapty
 
-Welcome to Mapti, the all-in-one sports tracking app. <br /> Keep track of your running and cycling workouts, and watch your progress come to life on an interactive map. <br /> Mapti uses the Leaflet JavaScript library to display your registered workouts on a map, giving you a visual representation of your accomplishments.<br /> This project is built using HTML, Sass, and JavaScript, ensuring a sleek and modern user experience. <br /> Register today and see your progress come to life with Mapti.
+Welcome to Mapti, the all-in-one sports tracking app. <br /> Keep track of your running and cycling workouts, and watch your progress come to life on an interactive map. <br /> Mapti uses the Leaflet JavaScript library to display your registered workouts on a map, giving you a visual representation of your accomplishments.<br /> This project is built using HTML, CSS, and JavaScript, ensuring a sleek and modern user experience. <br /> Register today and see your progress come to life with Mapti.
 
 
 ## Project Info
